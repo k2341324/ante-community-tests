@@ -10,6 +10,10 @@ Learn about Ante: [ante.finance](https://www.ante.finance/) | [Twitter](https://
 
 ## Contribute to the community repository
 
+### Choose a test to write, or create your own test
+
+[TEST_IDEAS.md](https://github.com/antefinance/ante-community-tests/blob/main/TEST_IDEAS.md) contains a list of Ante test ideas that have been proposed or are currently being written. Choose a test to write or add a row with your own test idea, then write your name in the Test Writers column to show that you're working on it.
+
 ### Set up your local environment
 
 1. Install Node and NPM ([Instructions](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm))
